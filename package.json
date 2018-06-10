@@ -31,6 +31,6 @@
     "build": "webpack --mode production --config webpack.config.js",
     "start": "webpack-dev-server --mode development --open --config webpack.config.js"
   },
-  "author": "Ashish Kaul",
+  "author": "Robin Kumar",
   "license": "ISC"
 }

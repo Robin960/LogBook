@@ -2,7 +2,32 @@ import React from 'react'
 
 class App extends React.Component{
     render(){
-        return <h1>Hello Local</h1>
+        return (
+      <div>
+        <table>
+          <tr>
+              <th>ID</th>
+              <th>Name</th>
+              <th>Place</th>
+          </tr>
+          <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+          </tr>
+          <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+          </tr>
+          <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+          </tr>
+        </table>
+      </div>
+    );
     }
 }
 
