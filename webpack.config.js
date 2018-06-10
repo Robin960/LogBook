@@ -1,6 +1,6 @@
 const path = require ('path');
 module.exports = {
-    entry: './source/store/index.jsx',
+    entry: './source/store/Index.jsx',
     output: {
        path:  __dirname + '/dist',
        filename: 'bundle.js'
