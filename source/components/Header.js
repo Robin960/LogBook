@@ -6,12 +6,10 @@ export class Header extends React.Component {
       <nav className="navbar navbar-default">
           <div className="container">
               <div className="navbar-header">
-                 <ul className="nav  navbar-nav">
-                    <li><a href='#'>Home</a></li>
-                 </ul>
+                <h4>WaterSports LogBook</h4>
               </div>
           </div>
-      </nav>               
+      </nav>
     );
   }
 }

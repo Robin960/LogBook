@@ -2,7 +2,7 @@ import React from 'react';
 import {render} from 'react-dom';
 
 import {Header} from './components/Header';
-import {Table} from './components/Table';
+import {Tabledata} from './components/Tabledata';
 import {Entry} from './components/Entry';
 
 
@@ -21,7 +21,7 @@ class App extends React.Component {
                   </div>
 
                   <div className="col-md-9">
-                  <Table/>
+                  <Tabledata/>
                   </div>
               </div>
 
